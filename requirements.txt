@@ -102,7 +102,7 @@ smmap==5.0.0
 soupsieve==2.3.2.post1
 stack-data==0.3.0
 streamlit==1.10.0
-streamlit-webrtc==0.44.1
+streamlit-webrtc==0.45.0
 terminado==0.15.0
 tinycss2==1.1.1
 toml==0.10.2
